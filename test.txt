@@ -1,1 +1,3 @@
-cannot create pull request 
+cannot create pull request
+
+"There isn't anything to compare"
